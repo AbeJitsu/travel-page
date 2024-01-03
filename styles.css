@@ -8,11 +8,7 @@
   
 }
 
-p {
-  background-color: rgb(211, 88, 209);
-  margin: 10px;
-  width: 250px;
-}
+
 
 ul {
   background-color: rgb(250, 146, 63);
@@ -30,4 +26,11 @@ li {
   background-color: rgb(238, 212, 192);
   width: 100px;
   text-align: right;
+}
+
+#hero {
+    height: 800px;
+    background-image: url(/images/places/ocean.jpeg);
+    background-position: center;
+    background-size: cover;
 }
